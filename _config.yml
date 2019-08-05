@@ -153,29 +153,25 @@ katex: # KaTeX
 sidebar:
   avatar: # 侧边栏显示的头像
     enable: true
-    img: //www.gravatar.com/avatar/a12c5fff23dde00df79af9aca4e7b6e4?d=wavatar&s=600 # 头像的地址
-    info: <br>SYSU17级在读<br>计科超算方向<br>ACMer<br>田宫例四驱车<br>永远喜欢水野爱 # 头像背后的信息
+    img: //头像/new.jpg # 头像的地址
+    info: <br>o<br>!!!!!<br>ACMer<br>q<br>q # 头像背后的信息
   description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="//music.163.com/outchain/player?type=0&id=155059595&auto=0&height=32"></iframe>'
   social:
   - title: rss # rss
     href: /atom.xml
     class: 'fa fa-rss fa-fw'
-  - title: 942759535 # qq
+  - title: 1226502223 # qq
     class: 'fa fa-qq fa-fw'
-  - title: Wu-_-Kan # weixin
+  - title: w1226502223 # weixin
     class: 'fa fa-weixin fa-fw'
-  - title: wu.kan@foxmail.com # email
-    href: mailto:wu.kan@foxmail.com
+  - title: 1226502223@qq.com # email
+    href: mailto:1226502223@qq.com
     class: 'fa fa-envelope fa-fw'
   - title: github # email
-    href: //github.com/wu-kan
+    href: //github.com/shazip
     class: 'fa fa-github fa-fw'
-  - title: WuK # codeforces
-    href: //codeforces.com/profile/WuK
-    class: 'fa fa-bar-chart fa-fw'
-  - title: WuK # vjudge
-    href: //vjudge.net/user/WuK
-    class: 'fa fa-smile-o fa-fw'
+
+
   nav:
   - title: '<span class="fa fa-home fa-fw"></span>&nbsp;首页'
     href: /
@@ -215,7 +211,7 @@ busuanzi:
 
 run-time:
   enable: true
-  start-time: '10/04/2017 11:03:56' # 这是我第一篇CSDN博客的时间
+  start-time: '05/08/2019 11:03:56' # 建立的时间
   alert: 努力运行
   day: 天
   hour: 时
