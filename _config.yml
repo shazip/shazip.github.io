@@ -155,7 +155,7 @@ sidebar:
     enable: true
     img: //www.gravatar.com/avatar/a12c5fff23dde00df79af9aca4e7b6e4?d=wavatar&s=60 # 头像的地址
     info: <br>哈哈<br> # 头像背后的信息
-  description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=450 src="//music.163.com/outchain/player?type=0&id=385646836&auto=1&height=430"></iframe>'
+  description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=250 src="//music.163.com/outchain/player?type=0&id=385646836&auto=1&height=230"></iframe>'
   social:
   - title: rss # rss
     href: /atom.xml
