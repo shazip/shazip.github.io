@@ -220,7 +220,7 @@ run-time:
 
 copyright:
   enable: true
-  text: '已开源于<a href="//github.com/wu-kan/wu-kan.github.io">GitHub</a><br>'
+  text: '已开源于<a href="//github.com/shazip/shzip.github.io">GitHub</a><br>'
 
 post:
   meta:
