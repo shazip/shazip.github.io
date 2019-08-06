@@ -109,7 +109,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .masthead-title small {
   font-size: 65%;
-  font-weight: 400;
+  font-weight: 300;
   color: #c0c0c0;
   letter-spacing: 0;
 }
@@ -144,8 +144,8 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   top: 0;
   bottom: 0;
-  left: -44rem;
-  width: 28rem;
+  left: -34rem;
+  width: 38rem;
   visibility: hidden;
   overflow-y: auto;
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
